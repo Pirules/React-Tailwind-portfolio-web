@@ -1,5 +1,5 @@
 # React-Tailwind-portfolio-web
 A website to use as a my personal portfolio 
 
-# deets
+# Deets
 this project is made using Next.js and Tailwind CSS framworks.
